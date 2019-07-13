@@ -21,3 +21,5 @@ Full schematics may be found [here](./hardware/schematics.pdf). PCB's Kicad proj
 * Daniel Lohmann
 
 Sponsor: CNPq n° 04/2018.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3334421.svg)](https://doi.org/10.5281/zenodo.3334421)
