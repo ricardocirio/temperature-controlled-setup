@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2439
+D 16-channel (8-differential) ∆Σ ADC, SSOP-28
+K ADC SIGMA DELTA
+F https://www.analog.com/media/en/technical-documentation/data-sheets/24391fb.pdf
+$ENDCMP
+#
+#End Doc Library

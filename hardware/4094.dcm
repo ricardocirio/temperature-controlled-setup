@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4094
+D 8-stage shift-and-store register
+K CMOS SHIFT REGISTER
+$ENDCMP
+#
+#End Doc Library

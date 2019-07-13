@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM35
+D LM35 Precision Centigrade Temperature Sensors, Linear + 10-mV/°C, TO-92
+K temperature sensor
+F http://www.ti.com/lit/ds/symlink/lm35.pdf
+$ENDCMP
+#
+#End Doc Library

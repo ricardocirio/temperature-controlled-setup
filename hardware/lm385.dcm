@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM385
+D 1.2V Micropower Voltage Reference Diode
+K DEV DIODE VOLTAGE REFERENCE
+$ENDCMP
+#
+#End Doc Library
