@@ -9,12 +9,10 @@ This repository contains documentation for assembling a low-cost heating system 
 Full schematics may be found [here](./hardware/schematics.pdf). PCB's Kicad project is under the *hardware* folder.
 
 <p align="center">
-<div id="mainDiv">
-    <div id="divOne" class="boxes">
-	<img src="./images/pcb_top.png" alt="PCB top" height="300">
-    </div>
-    <div id="divTwo" class="boxes">
-	<img src="./images/pcb_bottom.png" alt="PCB bottom" height="300">
-    </div>
-</div>
+![](./images/pcb_top.png) | ![](./images/pcb_bottom.png)
+
 </p>
+
+<img src="./images/pcb_top.png" alt="PCB top" height="350">
+
+<img src="./images/pcb_bottom.png" alt="PCB bottom" height="350">
