@@ -13,3 +13,11 @@ Full schematics may be found [here](./hardware/schematics.pdf). PCB's Kicad proj
 	<img src="./images/pcb_bottom.png" alt="PCB bottom" height="350">
 </p>
 
+## Authors
+
+*Ricardo Cirio<br>
+*Leticia Matos<br>
+*Fernando Miranda<br>
+*Daniel Lohmann
+
+Sponsor: CNPq n° 04/2018.
