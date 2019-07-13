@@ -11,10 +11,10 @@ Full schematics may be found [here](./hardware/schematics.pdf). PCB's Kicad proj
 <p align="center">
 <div id="mainDiv">
     <div id="divOne" class="boxes">
-	<img src="./images/pcb_top.png" alt="PCB top" height="400">
+	<img src="./images/pcb_top.png" alt="PCB top" height="300">
     </div>
     <div id="divTwo" class="boxes">
-	<img src="./images/pcb_bottom.png" alt="PCB bottom" height="400">
+	<img src="./images/pcb_bottom.png" alt="PCB bottom" height="300">
     </div>
 </div>
 </p>
