@@ -15,9 +15,9 @@ Full schematics may be found [here](./hardware/schematics.pdf). PCB's Kicad proj
 
 ## Authors
 
-*Ricardo Cirio<br>
-*Leticia Matos<br>
-*Fernando Miranda<br>
-*Daniel Lohmann
+* Ricardo Cirio<br>
+* Leticia Matos<br>
+* Fernando Miranda<br>
+* Daniel Lohmann
 
 Sponsor: CNPq n° 04/2018.
